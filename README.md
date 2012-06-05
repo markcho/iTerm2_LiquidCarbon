@@ -5,11 +5,9 @@ iTerm2 colorscheme inspired by <a href="http://jeetworks.org/liquidcarbon">Liqui
 
 ##Screenshots##
 *Liquid Carbon without Transparency*
-
 ![Liquid Carbon Original](https://github.com/markcho/iTerm2_LiquidCarbon/raw/master/screenshots/LiquidCarbonOriginal.png)
 
 *Liquid Carbon with ~20% Transparency*
-
 ![Liquid Carbon Transparent](https://github.com/markcho/iTerm2_LiquidCarbon/raw/master/screenshots/LiquidCarbonTransparent.png)
 
 ##Installation##
